@@ -1,4 +1,5 @@
 # stepper-vue
+a sample stepper component with Vue.js
 
 ## Project setup
 ```
